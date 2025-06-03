@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sabores del Litoral - Karolay Rivas</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background-color: #fcf5f0;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #184e4e;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    header p {
+      font-size: 1.2em;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    .cover {
+      width: 100%;
+      max-width: 400px;
+      display: block;
+      margin: 0 auto 20px;
+    }
+    h2 {
+      color: #184e4e;
+    }
+    .buy-button {
+      background-color: #ff5722;
+      color: white;
+      padding: 15px 25px;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 1.2em;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    footer {
+      background-color: #184e4e;
+      color: white;
+      text-align: center;
+      padding: 30px 20px;
+      margin-top: 60px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Sabores del Litoral</h1>
+    <p>Recetas del Pacífico Colombiano por Karolay Rivas</p>
+  </header>
+
+  <div class="container">
+    <img src="portada.png" alt="Portada del libro Sabores del Litoral" class="cover">
+
+    <h2>📖 Sobre el libro</h2>
+    <p><strong>Sabores del Litoral</strong> es un recetario que celebra la cocina tradicional del Pacífico colombiano. Contiene 5 recetas auténticas, sencillas y llenas de sabor, desde encocados hasta dulces típicos.</p>
+
+    <h2>🍤 ¿Qué encontrarás?</h2>
+    <ul>
+      <li>Recetas tradicionales con ingredientes del litoral</li>
+      <li>Consejos culturales y gastronómicos</li>
+      <li>Fotografías atractivas de los platos</li>
+      <li>Un homenaje a la cocina afrocolombiana</li>
+    </ul>
+
+    <h2>💬 Opiniones</h2>
+    <p>“Una joya gastronómica que conecta con nuestras raíces” – Lectores del litoral</p>
+
+    <a href="https://wa.me/573148715729?text=Hola%2C%20quiero%20comprar%20el%20libro%20Sabores%20del%20Litoral" target="_blank" class="buy-button" style="background-color: #25d366;">
+      💬 Comprar por WhatsApp
+    </a>
+
+    <br><br>
+
+    <!-- Botón de pago de Mercado Pago (reemplaza este comentario con el código real) -->
+    <div>
+      <!-- Pega aquí el código que te da Mercado Pago -->
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Karolay Rivas | Todos los derechos reservados</p>
+  </footer>
+
+</body>
+</html>
